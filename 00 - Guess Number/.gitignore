@@ -1,0 +1,7 @@
+# Ignores folder bin
+
+bin/
+
+# Ignores folder obj
+
+obj/
